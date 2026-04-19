@@ -113,7 +113,6 @@ export const portfolio: {
       href: "https://www.linkedin.com/in/henrik-sachdeva-62b103203/",
       icon: "linkedin",
     },
-    { label: "Website", href: "https://www.henriksachdeva.dev", icon: "website" },
   ],
   about: {
     title: "I build full-stack products with backend depth and systems discipline.",
